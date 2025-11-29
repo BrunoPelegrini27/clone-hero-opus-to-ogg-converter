@@ -1,0 +1,16 @@
+#  Conversor de .obra parágrafite .ogg parágrafite Clone Elaói de .obra parágrafite .ogg parágrafite Clone Elaói
+
+**** Problema comum: Músicas baixadas do MúEnchor.nós baixadas do https://www.enchor.usEnchor.nós]( vem em .opus, e o Clone Hero nem sempre toca direito (pula pro fim ou não carga áudio). Este script converte pra .ogg (formato compatível) e substitui os arquivos originais.
+
+##  Como Usar (Windows) Usar (Windows)
+1. **** Instalar o Python: ** Baixo em Baixo python.org [python.https://www.python.org/downloads/]( (marca "Adicionar ao PATH").
+2. **** Instalar o FFmpeg: ** Baixo o ZIP em Baixo gyan.dev/ffmpeg ZIP em https://www.gyan.dev/ffmpeg/builds/gyan.dev/ffmpeg](, extraia pra 
+3. **** Baixa este roteiro: ** Clique no botão verde "Código > Baixar ZIP", extraia.Clique no botão verde "Código > Baixar ZIP", extraia.
+4. **** Abra o Incitar de Comando (Ganhar+R > cmd), vá pra massa fazer roteiro (Abra downloads de cd\clone-delaói-obra-parágrafite-ogg-conversador-principal Incitar de Comando (Ganhar+R > cmd), vá pra massa fazer roteiro (`downloads de cd\clone-herói-opus-to-ogg-converter-main`)), digite digite conversor Python_opus_para_ogg.py Python_opus_para_ogg.py`.
+5. ****çãSeleçãooooo uma massa Raiz ** massa Raiz (ex: sua massa "músicas" com subpastas de músicas).(ex: sua massa "músicas" com subpastas de músicas).
+6. **** Ele processo subpasta por subpasta. Backup antes!Ele processo subpasta por subpasta. Backup antes!
+
+**** Testado não Windows 11. ** 11. Veja o erro, confira o CAMINHO ou mande buscaão aqui.Veja o erro, confira o CAMINHO ou mande buscaão aqui.
+
+##  Créditoséditos
+FeitoFeito com ❤️ por BrunoPelegrini27 e Grok (xAI). Baseado em FFmpeg.com ❤️ por BrunoPelegrini27 e Grok (xAI). Baseado em FFmpeg.
