@@ -21,16 +21,3 @@
 ## Créditos
 
 Feito com ❤️ por BrunoPelegrini27 e Grok (xAI). Baseado em FFmpeg.
-
-How to Use (Windows)
-
-Install Python: Download from python.org (check "Add to PATH").
-Install FFmpeg: Download the ZIP from gyan.dev/ffmpeg, extract to C:\ffmpeg, and add C:\ffmpeg\bin to PATH (Settings > System > About > Advanced system settings > Environment Variables).
-Download this script: Click the green "Code > Download ZIP" button, then extract.
-Run: Open Command Prompt (Win+R > cmd), navigate to the script folder (cd Downloads\clone-hero-opus-to-ogg-converter-main), and type python converter_opus_para_ogg.py.
-Select the root folder (e.g., your "songs" folder with music subfolders).
-Wait: It processes subfolder by subfolder. Backup first!
-
-Tested on Windows 11. If you encounter an error, check the PATH or open an issue here.
-Credits
-Made with ❤️ by BrunoPelegrini27 and Grok (xAI). Based on FFmpeg.
